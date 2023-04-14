@@ -1,7 +1,7 @@
 # 💫 About Me:
 ✅Hii , I am Priya Singh <br>
 ✅I am  persuing the B.Tech in Computer Science and Engineering from state  Government University in India.<br>
-✅Full Stack Web Developer ( MERN stack Developer  )+ DATA STRUCTURE & ALGORITHMS<br>✅ I am Passionate to  create the user friendly and optimal web Application with  { HTML, CSS, JavaScript, Database(Mysql,Mongodb),Backend (Node.js)}. Working to crate healthy ,portable and reliable web Application . 
+✅Full Stack Web Developer ( MERN stack Developer  )+ DATA STRUCTURE & ALGORITHMS<br>✅ I am Passionate to  create the user friendly and optimal web Application with  { HTML, CSS, JavaScript, Database(Mysql,Mongodb),Backend (Node.js)}.<br>I am dedicated to create healthy ,portable and reliable web Application . 
 
 
 ## 🌐 Socials:
